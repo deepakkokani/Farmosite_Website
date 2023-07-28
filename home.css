@@ -1,0 +1,26 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('farm1.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+  
+h2 
+{
+    margin-bottom: 1em;
+}
+
+
